@@ -94,6 +94,7 @@ img:hover {
   border-radius: 10px;
   background-color: #f5c73b;
   padding: 5px 20px;
+  transition: 0.5s;
 }
 
 .content a:hover {
