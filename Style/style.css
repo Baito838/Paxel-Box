@@ -42,7 +42,6 @@ section {
 }
 .container div {
   border-radius: 30px;
-  overflow: hidden;
 }
 .img {
   overflow: hidden;
