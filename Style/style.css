@@ -42,6 +42,7 @@ section {
 }
 .container div {
   border-radius: 30px;
+  overflow: hidden;
 }
 .background {
   max-width: 300px;
